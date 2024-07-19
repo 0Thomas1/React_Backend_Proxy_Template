@@ -24,7 +24,7 @@ This template provides a starting point for building a React application with a 
 1. Open your browser and navigate to `http://localhost:5173`.
 
   It should look like this:
-  ![success](img/success)
+  ![success](img/success.png)
 
 2. Use the React app to make API requests, which will be proxied to the backend server.
 
