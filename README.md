@@ -28,10 +28,6 @@ This template provides a starting point for building a React application with a 
 
 2. Use the React app to make API requests, which will be proxied to the backend server.
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines outlined in CONTRIBUTING.md.
-
 ## License
 
 This project is licensed under the MIT License. See LICENSE.md for more information.
