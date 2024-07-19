@@ -26,7 +26,9 @@ This template provides a starting point for building a React application with a 
   It should look like this:
   ![success](img/success.png)
 
-2. Use the React app to make API requests, which will be proxied to the backend server.
+2. Use the React app to make API requests at `/api/` endpoint, which will be proxied to the backend server. Or you can customise it at (client/vite.config.js) under "proxy".
+
+3. Start your react project!
 
 ## License
 
